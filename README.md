@@ -1,5 +1,5 @@
 # T3B Training Repo
-
+I am trying to learn new skills
 Welcome! This is the shared repo for the Git for Teams session.
 Clone it, make a branch named after yourself, and open a pull reqeust.
 
