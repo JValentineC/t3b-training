@@ -6,3 +6,4 @@ Notes for the Operations Problem Navigator (Medline RFP).
  this is important to track for many reasons. the one reason i would is to figure out why and where.
 - **Problem:** a recurring pattern of related incidents.
  the problem is important too because it shows us where our holes are.
+Finding the root cause is most important
