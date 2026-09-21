@@ -7,3 +7,4 @@ hi my name is ceejay, im here to clone you and then push you all the way into GI
 
 
 See team-rules.md for our working agreements.
+I am doing right now presentation
